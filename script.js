@@ -167,6 +167,7 @@ window.addEventListener('click', function(e) {
         ravens = [];
         explosions = [];
         particles = [];
+        score = 0;
         gameOver = false;
         animate(0)
     } else {
